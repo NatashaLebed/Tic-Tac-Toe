@@ -1,9 +1,9 @@
 # Tic-Tac-Toe
 Tic-Tac-Toe JetBrains Academy study project
 ---------
-|       |
-|       |
-|       |
+| _ _ _ |
+| _ _ _ |
+| _ _ _ |
 ---------
 Enter the coordinates: 2 2
 ---------
